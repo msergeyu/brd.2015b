@@ -1,0 +1,3 @@
+FIT_RESULT_FOLDER=AcceptanceTest/FitResults
+FIT_SOURCE_FOLDER=AcceptanceTest/Fixtures/Coffeemaker
+eclipse.preferences.version=1
